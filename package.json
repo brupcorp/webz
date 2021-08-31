@@ -1,6 +1,6 @@
 {
   "name": "webz",
-  "version": "1.22",
+  "version": "1.2.2",
   "description": "webz is your next webserver",
   "main": "lib.js",
   "repository": "https://github.com/brupcorp/webz",
