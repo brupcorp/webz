@@ -9,7 +9,6 @@
   "scripts": {
     "test": "node test/testme.js"
   },
-  "files": ["lib.js"],
   "dependencies": {
     "chalk": "^4.1.2",
     "cookie-parser": "^1.4.5",
