@@ -1,0 +1,25 @@
+{
+  "name": "webz",
+  "version": "v1.22",
+  "description": "webz is your next webserver",
+  "main": "lib.js",
+  "repository": "https://github.com/brupcorp/webz",
+  "author": "cmplx",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/testme.js"
+  },
+  "files": ["lib.js"],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cookie-parser": "^1.4.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.1.25",
+    "serve-favicon": "^2.5.0",
+    "serve-index": "^1.9.1",
+    "serve-static": "^1.14.1",
+    "socket.io": "^4.2.0"
+  }
+}
